@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
             ></Image>
           </div>
         </div>
-        <div className="child">
+        <div className="child1">
           <div className="child">{children}</div>
         </div>
       </body>

@@ -8,9 +8,54 @@
   padding-bottom: 20px;
   gap: 30px;
 }
+.errorAgeSelector {
+  display: flex;
+  flex-direction: column;
+}
+.errorAgeSelector span {
+  font-size: 12px;
+  font-weight: 600;
+  color: red;
+  margin-top: 2px;
+}
+.errorAge {
+  font-size: 8px;
+  font-weight: 600;
+  color: red;
+}
+.errorCmHeight {
+  display: flex;
+  flex-direction: column;
+}
+.errorCmHeight span {
+  font-size: 12px;
+  font-weight: 600;
+  color: red;
+  margin-top: 2px;
+}
 .selectOption {
   font-size: 16px;
   font-weight: 300;
+}
+.errorWeight {
+  display: flex;
+  flex-direction: column;
+}
+.errorWeight span {
+  font-size: 12px;
+  font-weight: 600;
+  color: red;
+  margin-top: 2px;
+}
+.errorHeight {
+  display: flex;
+  flex-direction: column;
+}
+.errorHeightSpan {
+  font-size: 12px;
+  font-weight: 600;
+  color: red;
+  margin-top: 2px;
 }
 .selectOption {
   display: flex;
